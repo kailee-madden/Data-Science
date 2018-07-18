@@ -1,3 +1,5 @@
+//A basic blockchain in Javascript for exploratory and explanatory purposes. Implements proof of work and miner rewards and transactions. 
+
 const SHA256 = require('crypto-js/sha256')
 
 class Transaction{ //create a Transaction class 
