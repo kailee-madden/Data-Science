@@ -1,0 +1,4 @@
+README
+
+I used Python 3.
+The file can be called and run directly in the command line using python kmadden5-hw4-programming.py. The output is a series of dictionaries containing the frequent patterns and their support.

@@ -1,0 +1,18 @@
+README
+
+I ran the programs on Python3 and would recommend that for better visualizations, however, they will also run on Python2.
+
+Question 1:
+Call python kmadden5-hw3-1.py in the command line - this will run the file and generate a scatter plot graph.
+You can specify which graph you would like to make by commenting or uncommenting the different starting centroids in the file itself.
+
+Question 2:
+Call python kmadden5-hw3-2.py in the command line - this will run the file and generate a scatter plot graph.
+
+Question 3:
+Call python kmadden5-hw3-3.py in the command line - this will run the file and generate three scatter plots as required.
+
+Notes:
+Each file is self-sufficient and runs independently in the command line to generate the necessary scatter plots to answer the questions.
+The scatter plots are automatically saved as PNG files with names associated with the question numbers (ex. "scatter-3-1" for the first plot for the third question).
+The algorithms contained in each file are all slightly different versions of the same core kmeans algorithm, since the number of clusters and the distance measurement differs.
